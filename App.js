@@ -8,10 +8,9 @@ const App = () => (
       style={{flex: 1}}
       source={{
         uri:
-          'https://okwast.github.io/react-native-webview-localstorage-issue-showcase/index.html',
+          'https://okwast.github.io/react-native-webview-localstorage-issue-showcase/',
       }}
       incognito={true}
-      scalesPageToFit
     />
   </SafeAreaView>
 );
